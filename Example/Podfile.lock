@@ -1,0 +1,16 @@
+PODS:
+  - JadFramework (1.0.0)
+
+DEPENDENCIES:
+  - JadFramework (from `../JadFramework`)
+
+EXTERNAL SOURCES:
+  JadFramework:
+    :path: "../JadFramework"
+
+SPEC CHECKSUMS:
+  JadFramework: d229fb3d1d267d479bcfb62c5998d85e37e328b7
+
+PODFILE CHECKSUM: 2083164d75f850ccc7f73b7adc70a3f6b5d9bb50
+
+COCOAPODS: 1.16.2

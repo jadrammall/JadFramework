@@ -1,0 +1,6 @@
+framework module JadFramework {
+  umbrella header "JadFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
