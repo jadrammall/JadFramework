@@ -1,3 +1,4 @@
+// swift-tools-version: 5.7
 import PackageDescription
 
 let package = Package(
@@ -14,7 +15,7 @@ let package = Package(
     targets: [
         .target(
             name: "JadFramework",
-            path: "Sources/JadFramework"
+            path: "JadFramework"
         ),
     ]
 )
